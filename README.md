@@ -42,5 +42,5 @@ Email Me 👉 ✉️ **mahamudulalamtamim10@gmail.com** For Collaboration/Projec
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 .github/workflows/main.yml
-![Metrics](https://github.com/tamimProgg/tamimProgg/blob/main/github-metrics.svg)
+![Metrics](https://github.com/tamimProgg/tamimProgg/blob/main/github-main.svg)
 
