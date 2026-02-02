@@ -40,3 +40,7 @@ Email Me 👉 ✉️ **mahamudulalamtamim10@gmail.com** For Collaboration/Projec
 [![](https://visitcount.itsvg.in/api?id=tamimProgg&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+.github/workflows/main.yml
+![Metrics](https://github.com/tamimProgg/tamimProgg/blob/main/github-metrics.svg)
+
