@@ -23,10 +23,12 @@ Email Me 👉 ✉️ **mahamudulalamtamim10@gmail.com** For Collaboration/Projec
 </div>
 
 # 📊 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamimProgg&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=tamimProgg&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tamimProgg&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamimProgg&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tamimProgg)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=tamimProgg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -44,8 +46,5 @@ Email Me 👉 ✉️ **mahamudulalamtamim10@gmail.com** For Collaboration/Projec
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=tamimProgg&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tamimProgg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamimProgg&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=tamimProgg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
