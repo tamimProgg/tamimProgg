@@ -1,5 +1,4 @@
-# 💫 Hi 👋, I'm Mahamudul Alam Tamim
-**A passionate Full Stack Web Developer || Youtuber  from Bangladesh**
+
 
 
 Email Me 👉 ✉️ **mahamudulalamtamim10@gmail.com** For Collaboration/Project or Anything Else. 😊😊
